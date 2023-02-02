@@ -562,3 +562,10 @@ img::-moz-selection {
 .recommendations-section {
   margin-top: 20px;
 }
+
+@media (max-width: 576px) {
+  .header-button {
+    display: block;
+    margin: 0 40px 10px 40px;
+  }
+}
