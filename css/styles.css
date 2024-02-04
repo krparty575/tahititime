@@ -18,6 +18,10 @@ body {
   --webkit-tap-highlight-color: #222;
 }
 
+#book {
+  scroll-margin-top: 100px;
+}
+
 hr {
   max-width: 80px;
   border-width: 3px;
